@@ -1,0 +1,16 @@
+{
+  "name": "cave-maps-frontend",
+  "version": "0.1.0",
+  "description": "React frontend for Yucatan cave maps",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "axios": "^1.6.0"
+  }
+}

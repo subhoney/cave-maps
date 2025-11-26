@@ -1,0 +1,21 @@
+{
+  "name": "cave-maps-backend",
+  "version": "0.1.0",
+  "description": "NestJS backend for Yucatan cave maps",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "nest start",
+    "start:dev": "nest start --watch"
+  },
+  "dependencies": {
+    "@nestjs/common": "^9.0.0",
+    "@nestjs/core": "^9.0.0",
+    "@nestjs/platform-express": "^9.0.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.0"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^9.0.0",
+    "typescript": "^5.0.0"
+  }
+}
